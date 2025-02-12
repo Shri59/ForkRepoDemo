@@ -10,5 +10,7 @@ namespace EMSDemo
     {
         public string Name { get; set; }//Name Property created
 
+        public int PhoneNo { get; set; } 
+
     }
 }
