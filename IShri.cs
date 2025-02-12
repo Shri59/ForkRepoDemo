@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace EMSDemo
 {
-    public interface ISrishti
+    public interface IShri
+
     {
         void Add();
         void Delete();
+        void DeleteAll();
     }
 }
