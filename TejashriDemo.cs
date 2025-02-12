@@ -8,6 +8,7 @@ namespace EMSDemo
 {
     internal class TejashriDemo
     {
-        public string Name { get; set; }//My Property
+        public string Name { get; set; }//Name Property created
+
     }
 }
