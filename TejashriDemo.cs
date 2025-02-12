@@ -12,5 +12,7 @@ namespace EMSDemo
 
         public int PhoneNo { get; set; } //Phone number Added
 
+        public int Age { get; set; } // Property added by Shruti Singh
+
     }
 }
